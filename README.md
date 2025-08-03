@@ -32,7 +32,3 @@ script.js         # JavaScript for interactivity
 - Update images in the `assets/` folder.
 - Edit text and links in `index.html` to personalize.
 - Adjust styles in `style.css` and `mediaqueries.css` as needed.
-
-## License
-
-This project is for personal use and inspiration. Feel free to use and modify for your own portfolio!
